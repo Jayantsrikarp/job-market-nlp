@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data / Models
+*.csv
+*.xlsx
+*.h5
+*.pkl
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
